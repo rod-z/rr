@@ -1,4 +1,4 @@
-# This is a simple JSF projects
+# This is a simple JSF project
 
 It has one page which shows a list of students.
 
