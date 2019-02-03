@@ -9,3 +9,6 @@ http://localhost:8080/RRStudent/faces/index.xhtml
 Screenshot:
 
 ![](screenshot.PNG?raw=true)
+
+This project was created with Netbeans and it uses Primefaces. The database used is Apache Derby. 
+
