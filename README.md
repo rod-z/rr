@@ -6,4 +6,6 @@ I reccomend to use Netbeans to be able to start it quickly with minimal configur
 
 http://localhost:8080/RRStudent/faces/index.xhtml
 
+Screenshot:
 
+![](screenshot.PNG?raw=true)
